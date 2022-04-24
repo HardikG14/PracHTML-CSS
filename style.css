@@ -38,9 +38,22 @@ h2{
 	background-size: cover;
 }
 
+.social-link{
+	width: 30px;
+	height: 30px;
+	margin: 5px;
+}
+
+.social-media{
+	position: fixed;
+	top: 10px;
+	right: 2px;
+}
+
 .container{
 	width: 1140px;
 	margin: 0 auto;
+	position: relative;
 }
 
 .article{
